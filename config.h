@@ -5,7 +5,8 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "FiraCode Nerd Font Mono:size=14";
+/* static char *font = "FiraCode Nerd Font Mono:size=14"; */
+static char *font = "Code New Roman Nerd Font:size=14";
 static int borderpx = 2;
 
 /*
